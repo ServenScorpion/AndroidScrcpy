@@ -10,4 +10,4 @@ python 群控软件
 
 
 ## 工具界面
-![简洁模式](https://img-blog.csdnimg.cn/20190926144821994.png)
+![简洁模式](https://github.com/ServenScorpion/AndroidScrcpy/blob/master/WX20241012-020420%402x.png)
